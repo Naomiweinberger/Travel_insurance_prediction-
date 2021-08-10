@@ -13,4 +13,3 @@ def run_model(model, X_train, X_test, y_train, y_test):
     print('Classification Report for Test Set:\n',classification_report(y_test , y_pred_test))
     print('Classification Report for Train Set:\n',classification_report(y_train, y_pred_train))
     return model 
-
