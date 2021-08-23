@@ -37,7 +37,7 @@ The model went through many iterations in order to maximize its strength in corr
 
 ## For More Information
 Please see full [repository](https://github.com/Naomiweinberger?tab=repositories) or email weinberger.naomi@gmail.com for more information.
-Here is the [presentation](https://github.com/Naomiweinberger?tab=repositories) for this project. 
+Here is the [presentation](https://docs.google.com/presentation/d/1yRMsyjeEJwbr7DuavZnvbP1pw-BKqvEfpvpIKr17HVw/edit#slide=id.geae368313a_0_70) for this project. 
 
 
 
