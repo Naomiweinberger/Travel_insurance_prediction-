@@ -36,7 +36,8 @@ The model went through many iterations in order to maximize its strength in corr
 3. Analyze the claims submitted/ claims covered to be able to be more transparent with the costumers, thereby gaining their trust. 
 
 ## For More Information
-Please see full [repository](https://github.com/Naomiweinberger?tab=repositories) or email weinberger.naomi@gmail.com for more information. 
+Please see full [repository](https://github.com/Naomiweinberger?tab=repositories) or email weinberger.naomi@gmail.com for more information.
+Here is the [presentation](https://github.com/Naomiweinberger?tab=repositories) for this project. 
 
 
 
